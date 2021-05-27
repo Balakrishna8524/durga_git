@@ -1,9 +1,11 @@
 hi
 
+to check status - git status
+
+
+steps to perform
 
 1. file changes
-
-to check status - git status
 
 2. file track - git add <filepath>
 
