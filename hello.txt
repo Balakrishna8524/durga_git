@@ -1,0 +1,13 @@
+hi
+
+
+1. file changes
+
+to check status - git status
+
+2. file track - git add <filepath>
+
+3. file commit - git commit -m "my first commit"
+
+4. push - git push origin master
+durga
