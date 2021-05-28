@@ -13,3 +13,17 @@ steps to perform
 
 4. push - git push origin master
 durga
+
+to check user credentials
+git config --global --unset-all
+
+to logout user from git
+git config --global --unset user.name
+git config --global --unset user.email
+git config --global --unset credential.helper
+
+to login user
+git config --global user.name "your_username"
+git config --global user.email "your_email_address@example.com"
+
+git clone https://github.com/Balakrishna8524/durga_git.git
