@@ -1,0 +1,9 @@
+CREATE TABLE `test_db`.`zone` 
+CREATE TABLE `test_db`.`zone` ( `id` INT NOT NULL AUTO_INCREMENT , `zone_name` VARCHAR(50) NOT NULL , PRIMARY KEY (`id`))
+INSERT INTO `zone`(`id`, `zone_name`) VALUES ('','value')
+UPDATE `zone` SET `zone_name` = 'south' WHERE `zone`.`id` = 4;
+ALTER TABLE `states` ADD `zone_ID` INT NOT NULL AFTER `country_id`;
+
+
+select
+
