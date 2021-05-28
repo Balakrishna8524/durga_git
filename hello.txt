@@ -6,6 +6,7 @@ to check status - git status
 steps to perform
 0. git pritces
 1. file changes
+3.second test
 
 2. file track - git add <filepath>
 
