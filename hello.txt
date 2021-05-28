@@ -2,6 +2,7 @@ hi
 
 to check status - git status
 
+hello
 
 steps to perform
 0. git pritces
