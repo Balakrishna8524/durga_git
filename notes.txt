@@ -28,4 +28,6 @@ to login user
 git config --global user.name "your_username"
 git config --global user.email "your_email_address@example.com"
 
-git clone https://github.com/Balakrishna8524/durga_git.git
+git clone https://github.com/Balakrishna8524/durga_git.git\
+
+
